@@ -1,10 +1,11 @@
-### Olá, seja bem vindo ao meu perfil do Github! ✌️ 
+## Olá, seja bem vindo ao meu perfil do Github! ✌️ 
 
+### Redes sociais
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviosuguinofilhoit/)
 
 ![SuguinoQA GitHub stats](https://github-readme-stats.vercel.app/api?username=suguinoQA&show_icons=true&theme=dark)
 
-### Tecnologias mais utilizadas:
+### Tecnologias mais utilizadas
 
 <div style="display: inline_block"><br/>
     <img alt="cypress" src="https://img.shields.io/badge/cypress-404D59?style=for-the-badge&logo=cypress&logoColor=AAFF00"/>
@@ -20,4 +21,8 @@
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>   
 </div></br>
 
-"O único lugar onde sucesso vem antes do trabalho é no dicionário." 💡
+### Certificações
+
+<img alt="ctfl" src="https://bstqb.org.br/b9/img/selos/sign-FL.png"/> <img alt="ctfl-at" src="https://bstqb.org.br/b9/img/selos/sign-AT.png"/> 
+
+</br>"O único lugar onde sucesso vem antes do trabalho é no dicionário." 💡
