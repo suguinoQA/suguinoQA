@@ -23,6 +23,8 @@
 
 ### Certificações
 
-<img alt="ctfl" src="https://bstqb.org.br/b9/img/selos/sign-FL.png"/> <img alt="ctfl-at" src="https://bstqb.org.br/b9/img/selos/sign-AT.png"/> 
+<img src="https://github.com/suguinoQA/suguinoQA/assets/48108289/c3dec269-850f-4eec-b27c-aab21d8f5003" width="300" height="300"/>
+<img src="https://github.com/suguinoQA/suguinoQA/assets/48108289/de4a995e-dadb-4b45-897d-12755a938b9d" width="300" height="300"/>
 
 </br>"O único lugar onde sucesso vem antes do trabalho é no dicionário." 💡
+
